@@ -1,0 +1,12 @@
+.jumbotron-fluid {
+    margin-bottom: 0;
+}
+nav img{
+	margin-right: 50px;
+}
+a.nav-link{
+	margin: 0 20px;
+}
+.card{
+	float: right;
+}
