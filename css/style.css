@@ -17,6 +17,9 @@ a.nav-link{
 .card-body img{
 	margin: 20px 0;
 }
+.breadcrum{
+	display: inherit;
+}
 @media (max-width: 992px){
 	.right-side-cards{
 		display: none;
